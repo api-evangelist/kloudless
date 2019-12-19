@@ -1,0 +1,90 @@
+{
+    "name": "Kloudless",
+    "description": "The last set of APIs you'll ever need to build apps that integrate File Storage, CRM, Email, Calendar, Marketing, ITSM, and more. Get started for free!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1700-kloudless.jpg",
+    "tags": [
+        "aggregation",
+        "api provider",
+        "api service provider",
+        "cloud storage",
+        "have api",
+        "interoperability",
+        "ipaas",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kloudless\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kloudless",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1700-kloudless.jpg",
+            "humanURL": "https:\/\/kloudless.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kloudless-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kloudless-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.kloudless.com\/services\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.kloudless.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.kloudless.com\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/kloudless"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kloudless"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.kloudless.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "hello@kloudless.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Kloudless"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/kloudless.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kloudless"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KloudlessAPI"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/kloudless.com\/"
+        }
+    ]
+}
